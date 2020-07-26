@@ -1,0 +1,5 @@
+com\bytecode\ejemplocrudfxmaven\MainApp.class
+com\bytecode\ejemplocrudfxmaven\coneccion\Coneccion.class
+com\bytecode\ejemplocrudfxmaven\FXMLController.class
+com\bytecode\ejemplocrudfxmaven\modelo\Usuario.class
+com\bytecode\ejemplocrudfxmaven\controlador\UsuarioControlador.class
